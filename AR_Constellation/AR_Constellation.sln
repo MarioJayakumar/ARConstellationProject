@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 
 Project("{C7CF17E3-DE0D-9F28-60CB-2EEDDC4A20A9}") = "AR_Constellation", "Assembly-CSharp-firstpass.csproj", "{3237829C-383C-2BF7-99E6-8B60D1A092C7}"
 EndProject
+Project("{C7CF17E3-DE0D-9F28-60CB-2EEDDC4A20A9}") = "AR_Constellation", "Assembly-CSharp.csproj", "{FBBBAE62-E6EA-A211-D428-2D1829E06D85}"
+EndProject
 Project("{C7CF17E3-DE0D-9F28-60CB-2EEDDC4A20A9}") = "AR_Constellation", "Assembly-CSharp-Editor.csproj", "{30B4CC62-3544-536D-F07A-A39CEC803A31}"
 EndProject
 Global
@@ -15,6 +17,10 @@ Global
 		{3237829C-383C-2BF7-99E6-8B60D1A092C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3237829C-383C-2BF7-99E6-8B60D1A092C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3237829C-383C-2BF7-99E6-8B60D1A092C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBBBAE62-E6EA-A211-D428-2D1829E06D85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBBBAE62-E6EA-A211-D428-2D1829E06D85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBBBAE62-E6EA-A211-D428-2D1829E06D85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBBBAE62-E6EA-A211-D428-2D1829E06D85}.Release|Any CPU.Build.0 = Release|Any CPU
 		{30B4CC62-3544-536D-F07A-A39CEC803A31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{30B4CC62-3544-536D-F07A-A39CEC803A31}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{30B4CC62-3544-536D-F07A-A39CEC803A31}.Release|Any CPU.ActiveCfg = Release|Any CPU
